@@ -6,7 +6,7 @@
 Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 
 ## PyCharm 설치 매뉴얼
-[바로가기](https://github.com/itsss/2022_snue_lecture/blob/main/prerequisite_2022_snue.pdf)
+**[바로가기](https://github.com/itsss/2022_snue_lecture/blob/main/prerequisite_2022_snue.pdf)**
 
 ## 강연 실습 자료 다운로드 방법
 본 자료 내 Assignment 폴더에 있습니다. **(실습자료는 강연 당일 조회됩니다.)**
