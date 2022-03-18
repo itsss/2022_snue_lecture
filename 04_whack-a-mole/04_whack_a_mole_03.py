@@ -30,7 +30,7 @@ while running:
             running = False
     # 2초 간격을 체크하기.
     if (pg.time.get_ticks() // 1000) % 2 == 0:
-        # check_time 변수를 활용해 2초마다 토끼가 등장하도록 코드를 작성하기.
+        # check_time 변수를 활용해 2초마다 두더지가 등장하도록 코드를 작성하기.
         if check_time == True:
             check_time = False
             screen.blit(mole_img, random.choice(mole_pos))
