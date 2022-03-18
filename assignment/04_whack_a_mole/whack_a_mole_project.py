@@ -16,19 +16,20 @@ screen = pg.display.???????((???, ???))
 
 # ===========================================================================
 # TODO 6. background_img에 배경화면을 넣으세요. 사이즈는 맞추어져 있으므로 조정은 필요 없습니다.
-background_img = pg.image.load("whack_a_mole.png")
+background_img = pg.?????.????("whack_a_mole.png")
 
 # ===========================================================================
 # TODO 7. mole_img에 두더지 이미지를 넣고, 가로(150) X 세로(100) 으로 바꾸어 주세요.
-mole_img = pg.image.load("mole.png")
-mole_img = pg.transform.scale(mole_img, (150, 100))
+mole_img = pg.?????.????("mole.png")
+mole_img = pg.?????????.?????(mole_img, (???, ???))
 
 # 수정하지 마세요.
 font = pg.font.SysFont("nanumbarungothic", 30)
 
-# 구멍 좌표 리스트
+# 수정하지 마세요.
 mole_pos = [(50,120), (300,120), (550,120), (50,255), (300,255), (550,255), (50,390), (300,390), (550,390)]
 
+# 수정하지 마세요.
 running = True
 check_time = True
 
@@ -38,9 +39,9 @@ limit_time = ??  # 게임 제한 시간
 target_score = ??  # 목표 점수
 # ===========================================================================
 
-score = 0  # 게임 점수
+score = 0  # 게임 점수. 수정하지 마세요.
 
-# 두더지 리스트
+# 두더지 리스트. 수정하지 마세요.
 moles = []
 
 
