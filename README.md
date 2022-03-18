@@ -1,6 +1,6 @@
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/LICENSE.md)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
-# 2022 서울교육대학교 소프트웨어영재교육원 'What is Computer Science?' 실습 자료
+# 2022 서울교육대학교 소프트웨어영재교육원 'What is Computer Science?' 실습 자료 (2022.03.19)
 
 ## 강연 전 반드시 아래에 있는 설치 매뉴얼을 참조해서 PyCharm 을 설치하셔야 합니다. 소프트웨어 설치에 어려움을 겪는 경우 아래 연락처로 문의하여 문제를 해결합니다.
 Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
