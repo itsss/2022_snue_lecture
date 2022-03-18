@@ -8,11 +8,11 @@
 Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 
 ## 설치 매뉴얼
-"[바로가기](https://github.com/itsss/2022_snue_lecture/prerequisite_2022_snue.pdf)"
+[바로가기](https://github.com/itsss/2022_snue_lecture/blob/main/prerequisite_2022_snue.pdf)
 
 ## 실습 파일
 본 자료 내 Assignment 폴더에 있습니다. (강연 당일 조회됩니다.)
-Download ZIP 버튼을 눌러 실습자료를 다운받고, pycharm 내 폴더에 폴더 전체를 드래그하여 사용하세요.
+**Download ZIP 버튼을 눌러 실습자료를 다운받고, pycharm 내 폴더에 폴더 전체를 드래그하여 사용하세요.**
 
 ## Reference
 * [pygame](https://pygame.org/)
