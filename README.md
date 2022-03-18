@@ -2,14 +2,14 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 # 2022 서울교육대학교 소프트웨어영재교육원 'What is Computer Science?' 실습 자료 (2022.03.19)
 
-## 강연 전 반드시 아래에 있는 설치 매뉴얼을 참조해서 PyCharm 을 설치하셔야 합니다. 소프트웨어 설치에 어려움을 겪는 경우 아래 연락처로 문의하여 문제를 해결합니다.
+## 특강 시작 전 반드시 아래에 있는 설치 매뉴얼을 참조해서 PyCharm 을 설치하셔야 합니다. 소프트웨어 설치에 어려움을 겪는 경우 아래 연락처로 문의하여 문제를 해결합니다.
 Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 
 ## PyCharm 설치 매뉴얼
 **[바로가기](https://github.com/itsss/2022_snue_lecture/blob/main/prerequisite_2022_snue.pdf)**
 
-## 강연 실습 자료 다운로드 방법
-본 자료 내 Assignment 폴더에 있습니다. **(실습자료는 강연 당일 조회됩니다.)**
+## 특강 실습(Lab Time) 자료 다운로드 방법
+본 자료 내 Assignment 폴더에 있습니다. 문제를 풀 때에는 메인 폴더에 있는 01_basic_python 등 폴더에 있는 코드를 참조하시면 됩니다.
 
 **Download ZIP 버튼을 눌러 실습자료를 다운받고, pycharm 프로젝트 내 폴더 전체를 드래그하여 사용하세요.**
 
