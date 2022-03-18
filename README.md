@@ -10,6 +10,7 @@ Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 
 ## 강연 실습 자료 다운로드 방법
 본 자료 내 Assignment 폴더에 있습니다. **(실습자료는 강연 당일 조회됩니다.)**
+
 **Download ZIP 버튼을 눌러 실습자료를 다운받고, pycharm 프로젝트 내 폴더 전체를 드래그하여 사용하세요.**
 
 ## 설치를 전부 마쳤다면? (강연 전)
