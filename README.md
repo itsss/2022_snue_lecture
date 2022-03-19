@@ -15,6 +15,7 @@ Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 
 ## 설치를 전부 마쳤다면? (특강 전)
 01_basic_python 폴더를 pycharm 내 폴더에 드래그 하여 추가하세요. 그리고 모든 예제를 실행해서 python 코드에 대해 이해해 보시기 바랍니다. 아래 Python 기본 문법 매뉴얼을 참고하세요.
+**금지 표시가 나오는 경우 폴더 위에 정확히 드래그했는지 반드시 확인합니다.**
 <img src='imgs/download_material.png' width="800px"/>
 
 ## Python 기본 문법 매뉴얼
