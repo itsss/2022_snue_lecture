@@ -13,9 +13,12 @@ Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 
 **Download ZIP 버튼을 눌러 실습자료를 다운받고, pycharm 프로젝트 내 폴더 전체를 드래그하여 사용하세요.**
 
-## 설치를 전부 마쳤다면? (강연 전)
-01_basic_python 폴더를 pycharm 내 폴더에 드래그 하여 추가하세요. 그리고 모든 예제를 실행해서 python 코드에 대해 이해해 보시기 바랍니다.
+## 설치를 전부 마쳤다면? (특강 전)
+01_basic_python 폴더를 pycharm 내 폴더에 드래그 하여 추가하세요. 그리고 모든 예제를 실행해서 python 코드에 대해 이해해 보시기 바랍니다. 아래 Python 기본 문법 매뉴얼을 참고하세요.
 <img src='imgs/download_material.png' width="800px"/>
+
+## Python 기본 문법 매뉴얼
+**[바로가기](https://github.com/itsss/2022_snue_lecture/blob/main/python_basic_2022_snue.pdf)**
 
 ## 저에 대해 더 궁금하신가요?
 * [Website](http://itsc.kr)
